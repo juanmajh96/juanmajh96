@@ -80,7 +80,7 @@ Over the past 6 months, I’ve focused on production-ready AI systems:
 
 <div align="center">
 
-Flutter • Dart • AWS • Firebase • OpenAI API  
+Flutter • Dart • Python • AWS • Firebase • OpenAI API  
 Riverpod • BLoC • Clean Architecture  
 Vector Databases • RAG Systems  
 CI/CD • GitHub Actions • GitLab Pipelines  
