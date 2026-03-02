@@ -106,7 +106,7 @@ I build systems where:
   <a href="https://github.com/juanmajh96" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/juan-manuel-jaramillo-henao-74a4551a1/" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-henao-74a4551a1" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
