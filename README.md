@@ -2,72 +2,116 @@
 
 <div align="center">
   <h1>I'm Juan Henao</h1>
-  <h2>A full-time Flutter developer 👨‍💻 working remotely since 2020🚀</h2>
+  <h2>Flutter Engineer & AI-Aware System Builder 🚀</h2>
+  <p>
+    Designing scalable mobile apps and AI-integrated systems for real-world production.
+  </p>
 </div>
 
-<ul>
-  <li>
-    🔭 I'm currently working at <a href="https://www.robinfood.com">Robin Food</a>
-  </li>
-  <li>🌱 I'm currently learning about Ai Agents.</li>
-  <li>❓ Ask me about anything related to Flutter.</li>
-  <li>⚡ Fun fact: I am learning python</li>
-  <li>
-    :school_satchel: To learn more about me, visit my
-    <a href="http://devfusion.org">website</a>
-  </li>
-</ul>
+---
 
-<h2>My skill set</h2>
+## 👨‍💻 About Me
+
+- 🧠 Flutter developer with 6+ years building production-grade mobile applications
+- 🤖 Specialized in AI-aware system design (RAG, evaluation pipelines, structured outputs)
+- ☁️ Experience designing cloud-based architectures using AWS & serverless patterns
+- 🏗 I think in systems, not just screens
+- 🌏 Working remotely since 2020
+
+---
+
+## 🔬 What I’ve Been Building Recently
+
+Over the past 6 months, I’ve focused on production-ready AI systems:
+
+### 🔹 AI Foundations
+- Flutter app integrated with OpenAI APIs
+- Structured JSON output validation
+- AI response logging & monitoring dashboard
+- Embeddings + Vector database integration
+
+### 🔹 Cloud Architecture
+- AWS Lambda (serverless backend)
+- API Gateway
+- CloudWatch logging & monitoring
+- Production-like architecture with separation of concerns
+
+### 🔹 AI System Design
+- RAG-based assistant
+- Evaluation scoring for AI responses
+- Fallback & guardrail logic
+- Human-in-the-loop validation patterns
+- Full system architecture documentation
+
+---
+
+## 🧠 Core Competencies
+
+### 📱 Mobile Engineering
+- Flutter (Advanced)
+- Clean Architecture
+- Riverpod / BLoC
+- Modular & scalable app structure
+- CI/CD automation
+- Unit, widget & integration testing
+- App Store & Play Store release pipelines
+
+### ☁️ Cloud & Backend
+- AWS Lambda
+- API Gateway
+- Firebase
+- Serverless architecture
+- REST APIs
+- Authentication flows
+- Monitoring & logging strategies
+
+### 🤖 AI Systems
+- OpenAI API integration
+- Structured output design
+- Prompt engineering
+- Retrieval Augmented Generation (RAG)
+- Embeddings & Vector databases
+- AI output evaluation & scoring
+- Guardrails & fallback strategies
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-<a href="https://flutter.dev/" target="_blank">
-  <img 
-    src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" 
-    alt="Flutter" 
-    style="margin: 16px; width: 48px"
-  /></a>
-  <a href="https://dart.dev/" target="_blank">
-    <img
-      src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg"
-      alt="Dart" 
-      style="margin: 16px; width: 48px"
-    /></a>  
 
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+Flutter • Dart • AWS • Firebase • OpenAI API  
+Riverpod • BLoC • Clean Architecture  
+Vector Databases • RAG Systems  
+CI/CD • GitHub Actions • GitLab Pipelines  
 
-<a href="https://firebase.google.com/" target="_blank">
-  <img 
-    src="https://profilinator.rishav.dev/skills-assets/firebase.png" 
-    alt="Firebase" 
-    style="margin: 16px; width: 48px"
-    /></a>  
-<a href="https://github.com/" target="_blank">
-  <img 
-    src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" 
-    alt="Git" 
-    style="margin: 16px; width: 48px" 
-    /></a>  
 </div>
 
-<h2>Connect with me</h2>
+---
+
+## 🎯 My Focus
+
+I build systems where:
+
+- Humans + AI collaborate effectively
+- AI outputs are validated and monitored
+- Mobile apps are scalable and maintainable
+- Architecture decisions are intentional
+
+---
+
+## 🌍 Connect With Me
 
 <div align="center">
   <a href="https://github.com/juanmajh96" target="_blank">
-    <img
-    src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
-    alt=github style="margin: 8px;"/>
-  </a>
-  <a href="https://dev.to/juanmajh96" target="_blank">
-    <img
-    src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white
-    alt=devto style="margin: 8px;"/>
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/juan-manuel-jaramillo-henao-74a4551a1/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
-    alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
 </div>
+
+---
+
+### 💬 “The future of software is not AI replacing developers —  
+it’s developers who understand AI replacing those who don’t.”
