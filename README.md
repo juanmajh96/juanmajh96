@@ -24,6 +24,11 @@
 
 Over the past 6 months, I’ve focused on production-ready AI systems:
 
+### 🔹Weaver Chat (Latest Project)
+- Multi-tenant RAG chatbot SaaS platform built from scratch
+- Live demo: https://weaverchat.com/
+- Full-stack implementation 
+
 ### 🔹 AI Foundations
 - Flutter app integrated with OpenAI APIs
 - Structured JSON output validation
